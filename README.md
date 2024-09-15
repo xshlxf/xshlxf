@@ -1,11 +1,12 @@
-## Hi there 👋
+# Hi  👋 
+hi there :) i'm Ashley Peña Nolasco a Computer Systems Engineering student at Universidad de las Américas Puebla.
 
-<!--
-**xshlxf/xshlxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## education 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+## i'm currently... 
+
+- 🔭 I’m currently 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
